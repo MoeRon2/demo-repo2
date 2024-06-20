@@ -6,4 +6,4 @@ Some other text
 
 Interesting
 
-Only using git bash
+Only using VS Code
